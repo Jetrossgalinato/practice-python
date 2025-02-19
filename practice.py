@@ -37,3 +37,5 @@
 # second_word = ["W","o","r","l","d"]
 # all_words = first_word + second_word
 # print(all_words)
+
+# print([1,2,3] * 3) #this will print the list 3 times
