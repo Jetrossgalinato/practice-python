@@ -30,3 +30,10 @@
 
 # #you can also multipy strings
 # print("Hi" * 3)
+
+#using operators with lists
+
+# first_word = ["H", "e", "l", "l", "o"]
+# second_word = ["W","o","r","l","d"]
+# all_words = first_word + second_word
+# print(all_words)
