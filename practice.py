@@ -23,8 +23,10 @@
 #     print(x)
 
 # power relationships
+# squared = 3**2
+# cubed = 3**3
+# print(squared)
+# print(cubed)
 
-squared = 3**2
-cubed = 3**3
-print(squared)
-print(cubed)
+# #you can also multipy strings
+# print("Hi" * 3)
