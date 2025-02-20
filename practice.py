@@ -47,3 +47,15 @@
 
 #basic string operations
 #conditions
+
+#looping
+
+# #for loop
+# for x in range(5):
+#     print(x)
+
+# #while loop
+# count = 0
+# while count < 5:
+#     print(count)
+#     count += 1
