@@ -46,3 +46,4 @@
 # print(format_string % info)
 
 #basic string operations
+#conditions
