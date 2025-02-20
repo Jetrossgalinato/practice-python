@@ -45,3 +45,4 @@
 # format_string = "Hello my name is %s %s and I am %s years old"
 # print(format_string % info)
 
+#basic string operations
