@@ -39,3 +39,9 @@
 # print(all_words)
 
 # print([1,2,3] * 3) #this will print the list 3 times
+
+# #string formatting
+# info = ("Jetross","Galinato",22)
+# format_string = "Hello my name is %s %s and I am %s years old"
+# print(format_string % info)
+
